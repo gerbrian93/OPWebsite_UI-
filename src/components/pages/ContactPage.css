@@ -1,0 +1,16 @@
+.form-container {
+   margin-left: 10%;
+   margin-right: 10%;
+
+}
+
+.email-input{
+   font-size: 14pt;
+}
+
+.email-input-button {
+   height: fit-content;
+   width: fit-content;
+   font-size: 14pt;
+   color: Black;
+}

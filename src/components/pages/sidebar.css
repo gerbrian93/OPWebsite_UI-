@@ -1,0 +1,53 @@
+.sidebar {
+   background-color: blueviolet;
+   height: 100vh;
+   width: 50%;
+   top: 5%;
+   border: 4px solid black;
+   
+   
+}
+
+.barbtn {
+   position: relative;
+   background-color: black;
+   width: fit-content;
+   color: white;
+   
+}
+
+
+.blogTitles {
+   padding-top: 15px;
+   padding-bottom:15px;
+   background-color: rgb(61,61,61);
+   border: 2px solid black;
+   margin-left: 2%;
+   margin-right: 2%;
+   margin-top: 1%;
+   
+}
+
+   
+
+.title {
+   text-decoration:none;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #ffffff;
+   font-style: italic;
+   font-weight:500;
+  
+}
+
+
+
+
+
+.barAndButton {
+   position:fixed;
+   top:0;
+   bottom:2;
+   left:0;
+   margin:0;
+   padding-top: 5%;
+}

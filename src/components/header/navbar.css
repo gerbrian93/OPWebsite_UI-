@@ -1,0 +1,53 @@
+.navbar {
+   display: flex;
+   justify-content: flex-start;
+   background-color: blueviolet;
+   position: fixed;
+   padding: 1%;
+   width:100%;
+   top: 0;
+   z-index: 1000;
+   border-bottom: 4px solid black;
+   
+   
+   
+ }
+ 
+ .items {
+   list-style-type: none;
+   display: flex;
+   margin: 0;
+   padding: 0;
+   margin-left: 2%;
+   
+   
+ }
+ 
+ .items li {
+   margin-left: 15%;
+   font-size: larger;
+ }
+
+ .items li a {
+  text-decoration:none;
+  
+ }
+
+ .items li a:hover {
+   color: white;
+ }
+
+
+ 
+ 
+ .items li a:active {
+  color: pink;
+ }
+ 
+ .items li:last-child {
+   margin-right: 0;
+ }
+ 
+ .active {
+  text-decoration: underline;
+ }
